@@ -49,7 +49,7 @@ Explore our data through:
 
 
 
-# 📚 Éxito Estudiantil: Análisis de Hábitos y Rendimiento (Castellano)
+# 📚 Éxito Estudiantil: Análisis de Hábitos y Rendimiento (Español)
 
 > Descubre los secretos del éxito académico a través de datos y visualizaciones.
 
