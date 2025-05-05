@@ -56,14 +56,11 @@ Explore our data through:
 ## 🏗️ Arquitectura del Proyecto
 📁 Performance/
 ├── 📊 Data/
-│ └── student_habits_performance.csv
+│   └── student_habits_performance.csv
 ├── 📓 performance.ipynb
 ├── 📜 LICENSE
 └── 📖 README.md
 
-markdown
-Copiar
-Editar
 
 ## 📊 Descripción del Conjunto de Datos
 
