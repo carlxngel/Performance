@@ -54,12 +54,14 @@ Explore our data through:
 > Descubre los secretos del éxito académico a través de datos y visualizaciones.
 
 ## 🏗️ Arquitectura del Proyecto
+```
 📁 Performance/
 ├── 📊 Data/
 │   └── student_habits_performance.csv
 ├── 📓 performance.ipynb
 ├── 📜 LICENSE
 └── 📖 README.md
+```
 
 
 ## 📊 Descripción del Conjunto de Datos
