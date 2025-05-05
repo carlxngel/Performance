@@ -1,4 +1,4 @@
-# 📚 Student Success: Habits and Performance Analysis
+# 📚 Student Success: Habits and Performance Analysis (English)
 
 > Discover the secrets behind academic excellence through data and visualizations.
 
@@ -47,7 +47,9 @@ Explore our data through:
 - 📊 Interactive bar charts
 
 
-# 📚 Éxito Estudiantil: Análisis de Hábitos y Rendimiento
+
+
+# 📚 Éxito Estudiantil: Análisis de Hábitos y Rendimiento (Castellano)
 
 > Descubre los secretos del éxito académico a través de datos y visualizaciones.
 
